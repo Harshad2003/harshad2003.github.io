@@ -9,9 +9,9 @@
   /* top: 50%;
   transform: translateY(-50%);
 }  */
-body {
+/* body {
   overflow:-moz-hidden-unscrollable;
-}
+} */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
